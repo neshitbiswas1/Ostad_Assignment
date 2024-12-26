@@ -1,4 +1,4 @@
-//Enhance the student management system by using interfaces to ensure role-based behavior and actions
+//Define an interface named Role:
 abstract class Role {
   void displayRole();
 }
